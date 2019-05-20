@@ -1,0 +1,9 @@
+@import "normalise";
+
+// Enter global styles here
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
